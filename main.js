@@ -19,14 +19,14 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Métodos de contracepção natural e métodos de contracepção comportamental podem ser alternativas para aqueles que preferem evitar métodos hormonais ou dispositivos.",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "Métodos de contracepção natural, como o método de temperatura basal e o método do muco cervical, são baseados na observação dos sinais do corpo para identificar os períodos férteis e não ter relações sexuais durante esses períodos. Esses métodos podem ser atraentes para quem deseja evitar o uso de hormônios e dispositivos, e também podem contribuir para uma maior compreensão do próprio ciclo menstrual. No entanto, a eficácia desses métodos pode ser reduzida se não forem seguidos com rigor."
+                afirmacao: "Métodos de contracepção natural oferecem uma alternativa aos métodos hormonais e dispositivos, mas sua eficácia depende de um monitoramento cuidadoso e consistente dos sinais corporais."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "Métodos de contracepção comportamental, como a abstinência periódica e a técnica do calendário, envolvem o uso de técnicas para evitar a gravidez sem recorrer a métodos contraceptivos tradicionais. Esses métodos requerem que os indivíduos monitorem os ciclos menstruais e evitem relações sexuais durante os períodos férteis para reduzir o risco de gravidez. Eles são uma opção para quem busca uma abordagem menos invasiva e natural, embora a adesão correta seja essencial para alcançar a eficácia desejada.",
                 afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
             }
         ]

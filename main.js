@@ -6,15 +6,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "A contracpção é o ato de evitar a gravidez. Os métodos desse controle incluem medicamentos, procedimentos, dispostivos e comportamentos",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "Métodos de Barreira: como preservativos masculinos e femininos, diafragma e esponja contraceptiva.",
+                afirmacao: "Métodos Hormonais: como pílulas anticoncepcionais, adesivos, anéis, vaginais e injetáveis."
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "Dispositivos Intrauterinos (DIU): como Diu Hormonal e Diu de Cobre.",
+                afirmacao: "Métodos de Emergência: como pílula do dia seguinte e Diu de Cobre como contracepção de emergência."
             }
         ]
     },

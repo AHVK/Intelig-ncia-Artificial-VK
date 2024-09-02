@@ -35,7 +35,7 @@ const perguntas = [
         enunciado: "O coito interrompido é um método contraceptivo natural menos eficaz, enquanto os métodos cirúrgicos oferecem uma solução permanente para evitar a gravidez. Ambos requerem considerações cuidadosas e não protegem contra ISTs",
         alternativas: [
             {
-                texto: "Coito Interrompido: O coito interrompido, também conhecido como "retirada" ou "método de retirada", consiste na remoção do pênis da vagina antes da ejaculação para evitar que o esperma entre em contato com o óvulo. Este método depende do controle e do timing do parceiro, sendo menos eficaz do que outros métodos devido ao risco de liberação de esperma durante o pré-ejaculatório.",
+                texto: "Coito Interrompido: O coito interrompido, também conhecido como retirada ou método de retirada, consiste na remoção do pênis da vagina antes da ejaculação para evitar que o esperma entre em contato com o óvulo. Este método depende do controle e do timing do parceiro, sendo menos eficaz do que outros métodos devido ao risco de liberação de esperma durante o pré-ejaculatório.",
                 afirmacao: "Embora o coito interrompido seja uma opção sem custo e sem efeitos colaterais físicos, sua eficácia é significativamente menor, o que destaca a importância de considerar métodos adicionais ou alternativos para uma proteção mais confiável"
             },
             {
@@ -43,7 +43,7 @@ const perguntas = [
                 afirmacao: "Os métodos cirúrgicos oferecem uma solução permanente para a contracepção, o que torna crucial a decisão informada e o consentimento consciente antes de optar por esse tipo de procedimento."
             }
         ]
-    },
+    }
     {
         enunciado: "Você achou esse informativo útil?",
         alternativas: [
@@ -53,15 +53,11 @@ const perguntas = [
             },
             {
                 texto: "Não",
-                afirmacao: "Que pena, espero profundamnte que vocÊ tenha aprendido algo!"
+                afirmacao: "Que pena, espero profundamnte que você tenha aprendido algo!"
             }
         ]
     },
-    
-       
-        ]
-   
-
+];
 
 
 let atual = 0;

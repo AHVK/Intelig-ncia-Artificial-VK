@@ -86,13 +86,13 @@ function mostraAlternativas(){
 
 function respostaSelecionada(opcaoSelecionada) {
     const afirmacoes = opcaoSelecionada.afirmacao;
-    historiaFinal += afirmacoes + " ";
+    historiaFinal = afirmacoes;
     atual++;
     mostraPergunta();
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Em 2049...";
+    caixaPerguntas.textContent = "Você chegou ao fim do formulário";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }

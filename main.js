@@ -43,7 +43,7 @@ const perguntas = [
                 afirmacao: "Os métodos cirúrgicos oferecem uma solução permanente para a contracepção, o que torna crucial a decisão informada e o consentimento consciente antes de optar por esse tipo de procedimento."
             }
         ]
-    }
+    },
     {
         enunciado: "Você achou esse informativo útil?",
         alternativas: [
